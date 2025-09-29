@@ -7,7 +7,10 @@
     "test": "node main.js",
     "start_reverse_string": "nodemon reverse_string/main.js",
     "start_recursive_factorial": "nodemon simple_recursive/factorial/main.js",
-    "start_recursive_sum_from_1_to_n": "nodemon simple_recursive/sum_from_1_to_n/main.js"
+    "start_recursive_sum_from_1_to_n": "nodemon simple_recursive/sum_from_1_to_n/main.js",
+    "start_recursive_no_duplicate_from_array": "nodemon array_and_string/no_duplicates_from_array/main.js",
+    "start_recursive_palindrom_checker": "nodemon array_and_string/palindrom_checker/main.js",
+    "start_recursive_vocals_from_string": "nodemon array_and_string/vocals_from_string/main.js"
   },
   "repository": {
     "type": "git",
